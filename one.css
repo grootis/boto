@@ -5,3 +5,7 @@ body{
 p{
   width: 23px ;
 }
+#log{
+  width: 100px;
+  height: 300px;
+}
